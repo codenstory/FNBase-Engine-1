@@ -28,6 +28,7 @@ hr {width: 934px; background-color: #ccc; border: 0; height: 1px;}
 <title>FNBE</title></head>
 <body>
   <div class="center">
+    
 <td>
   <?php
     if(is_file('../setting.php')){
